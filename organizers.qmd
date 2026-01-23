@@ -1,0 +1,38 @@
+---
+title: Organizers
+toc: false
+---
+
+
+
+![](https://asmithh.github.io/images/new_facepicture.JPG){width="150px" style="border-radius: 50%; float: left; margin-right: 15px;"}
+
+<br> 
+
+##### [Alyssa Smith](https://asmithh.github.io/)<br>Northeastern and Holy Cross
+
+
+
+
+<br><br>
+
+![](https://nwlandry.com/assets/images/headshot.jpg){width="150px" style="border-radius: 50%; float: left; margin-right: 15px;"}
+
+<br>
+
+##### [Nicholas Landry](https://nwlandry.com/)<br>UVA
+
+<br><br>
+
+![](assets/img/phil-avatar.png){width="150px" style="border-radius: 50%; float: left; margin-right: 15px;"}
+
+<br> 
+
+##### [Phil Chodrow](https://www.philchodrow.prof/)<br>Middlebury College
+
+
+<br> <br> 
+
+### Acknowledgements
+
+Thank you to NetSci 2026 and our awesome sponsors for supporting this event!
