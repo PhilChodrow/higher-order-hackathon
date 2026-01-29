@@ -4,14 +4,7 @@
     "href": "program.html",
     "title": "Program",
     "section": "",
-    "text": "In this hackathon, we will hack in the highest-order way we can. Hacking in low-order ways is strongly discouraged. The organizers and mentors will support participants in increasing the order of their hacking.\nReseachers who instead choose to lower the order of their hacking will be politely asked to leave."
-  },
-  {
-    "objectID": "organizers.html",
-    "href": "organizers.html",
-    "title": "Organizers",
-    "section": "",
-    "text": "Alyssa SmithNortheastern and Holy Cross\n\n\n\n\n\nNicholas LandryUVA\n\n\n\n\n\nPhil ChodrowMiddlebury College\n \n\n\nAcknowledgements\nThank you to NetSci 2026 and our awesome sponsors for supporting this event!"
+    "text": "In this hackathon, we will hack in the highest-order way we can. Hacking in low-order ways is strongly discouraged. The organizers and mentors will support participants in increasing the order of their hacking.\nReseachers who instead choose to lower the order of their hacking will be politely asked to leave.\nAn outline of the schedule is the following:\n\n\n\nTime\nActivity\n\n\n\n\n09:00 – 09:10\nLightning Talk 1: Alec Kirkley\n\n\n09:10 – 09:20\nLightning Talk 2: Allison Wan\n\n\n09:20 – 09:30\nLightning Talk 3: Tim LaRock\n\n\n09:30 – 09:40\nLightning Talk 4: Yanna Kraakman\n\n\n09:40 – 10:00\nXGI Tutorial: Nicholas Landry\n\n\n10:00 – 10:15\nCoffee Break\n\n\n10:15 – 12:30\nWorking Session 1\n\n\n12:30 – 14:00\nLunch Break\n\n\n14:00 – 16:00\nWorking Session 2\n\n\n16:00 – 16:15\nCoffee Break\n\n\n16:15 – 17:00\nWrap-Up: Progress made"
   },
   {
     "objectID": "index.html",
@@ -19,5 +12,12 @@
     "title": "A Higher Order Hackathon",
     "section": "",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "objectID": "organizers.html",
+    "href": "organizers.html",
+    "title": "Organizers",
+    "section": "",
+    "text": "Alyssa SmithNortheastern and Holy Cross\n\n\n\n\n\nNicholas LandryUVA\n\n\n\n\n\nPhil ChodrowMiddlebury College\n \n\n\nAcknowledgements\nThank you to NetSci 2026 and our awesome sponsors for supporting this event!"
   }
 ]
