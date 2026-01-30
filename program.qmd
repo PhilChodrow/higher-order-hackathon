@@ -1,9 +1,60 @@
 ---
 title: "Program"
+toc: false
 ---
 
-![](assets/img/hackathon.png){width="100%"}
+### Confirmed Speakers
 
-In this hackathon, we will hack in the highest-order way we can. Hacking in low-order ways is ***strongly discouraged***. The organizers and mentors will support participants in increasing the order of their hacking. 
+::: {layout-ncol=2 layout-nrow=2}
 
-Reseachers who instead choose to lower the order of their hacking will be politely asked to leave. 
+::: {style="float: left; margin-right: 15px;"}
+
+![](assets/img/allison-wan.png){width="150px" style="border-radius: 50%;"}
+
+
+
+##### [Allison Wan](https://www.networkscienceinstitute.org/people/allison-wan)<br>Northeastern University
+
+:::
+
+
+
+
+::: {style="float: left; margin-right: 15px;"}
+
+![](https://personen.utwente.nl/.wh/ea/uc/i772ce7f10103b5c8f201e1208b035fd35e639fb9a44e0c016340014001804100000000/yjkraakman.jpg){width="150px" style="border-radius: 50%"}
+
+
+
+##### [Yanna Kraakman](https://personen.utwente.nl/y.j.kraakman)<br>University of Twente
+
+:::
+
+
+
+
+::: {style="float: left; margin-right: 15px;"}
+
+![](https://aleckirkley.com/authors/admin/avatar_hu01a195c09b31943f42ff13af02497d35_112258_250x250_fill_q90_lanczos_center.jpg){width="150px" style="border-radius: 50%"}
+
+
+
+##### [Alec Kirkley](https://aleckirkley.com/)<br>University of Hong Kong
+
+:::
+
+::: {style="float: left; margin-right: 15px;"}
+
+
+
+![](https://uploads-ssl.webflow.com/58920a954e6c16dd742902c7/5bc78f7efaca718cb09689bf_timothy-crop.png){width="150px" style="border-radius: 50%"}
+
+
+
+##### [Tim LaRock](https://tlarock.github.io/)<br>Princeton University
+
+:::
+
+:::
+
+### Schedule

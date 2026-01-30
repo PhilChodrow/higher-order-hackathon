@@ -2,13 +2,13 @@ project:
   type: website
 
 website:
-  title: "Higher-Order Hackathon @Netsci 2026"
+  title: "A Blue Start at Netsci 2026"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - program.qmd
-      - register.qmd
+      - apply.qmd
       - organizers.qmd
 
 format:

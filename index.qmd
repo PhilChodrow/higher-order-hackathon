@@ -1,12 +1,54 @@
 ---
 title: "A Higher Order Hackathon"
 image: assets/img/xgi-example.png
-about: 
-    template: broadside
+bibliography: refs.bib 
+toc: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### Start off NetSci 2026 with higher-order networks, data science, and new friends 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hello and welcome! On **Sunday 5/31**, we the organizers in collaboration with NetSci 2026 will host a **hackathon on higher-order networks**. The purpose of this hackathon is to offer an energetic opener to the conference experience, develop skills in higher-order network analysis, and build connections between early-career researchers interested in this rich area of network science. 
+
+::: {#fig-xgi style="float: left; margin: 5px; width: 300px;"}
+
+![](assets/img/xgi-example.png)
+
+An example hypergraph, a data structure used to represent higher-order networks, [from the XGI package](https://xgi.readthedocs.io/en/stable/api/tutorials/getting_started_2.html) for higher-order network analysis Python [@Landry_XGI_2023].
+
+:::
+
+### The Mission
+
+The hackathon will center around the recently-released *A Blue Start* dataset, which contains higher-order network data from the Bluesky social media platform [@smith_blue_2025]. In this data set, nodes are users and edges are *starter packs*—lists of accounts curated by individual users that can be followed en masse. Starter packs are an example of a higher-order network structure, as they connect between 8 and 150 users simultaneously. The data set contains over 2 million unique users and over 350,000 starter packs. The multiway nature of the data set allows us to ask richer questions than can be asked of pairwise networks; for example, there is a rich structure of overlap between different starter packs that cannot be captured by pairwise network analysis.
+
+**The mission of the hackathon is to explore this rich data set using higher-order network analysis techniques to learn about the distinctive features of multiway user interactions on social media.**
+
+
+
+### The Event
+
+::: {#fig-xgi style="float: right; margin: 5px; width: 400px;"}
+
+![](assets/img/hackathon.png)
+
+A screencap from the organizers' meeting. 
+
+:::
+
+The hackathon will include: 
+
+- Short talks and tutorials by experienced researchers in higher-order network science.
+- Hands-on data analysis and coding sessions in small teams. 
+- Social events for connecting with participants, organizers, and mentors. 
+- A report-out to the larger NetSci conference during the lightning talk session. 
+
+
+
+
+### More On The Data
+
+
+
+The *A Blue Start* data set contains anonymized network data obtained from the Bluesky social media platform. Bluesky is a relatively new microblogging social media platform that spun out of Twitter in 2021; it uses the novel AT Protocol, which facilitates federated identities and allows users to store their data in portable repositories on personal data servers (PDSs) that log user actions  [@mccue_how_], [@blueskypbc_repository_2025]. In addition to offering affordances that are familiar to Twitter users, like following, posting content, and reposting, Bluesky also offers a feature called the *starter pack*, a list of accounts or feeds (which present content based on a custom curation algorithm) that are curated by an individual user @blueskypbc_introducing_2024. It is possible to follow all the entities in a starter pack by clicking one button; users are also able to peruse the list and selectively follow a subset of entities in the starter pack. Starter packs are higher-order networks: Bluesky allows users to add between 8 and 150 users to a starter pack, and it is also possible to convert arbitrarily large lists of users into starter packs programatically. 
+
