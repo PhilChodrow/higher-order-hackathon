@@ -66,6 +66,7 @@ Hackathon organizers will be happy to help participants contact the Northeastern
 
 ## License
 This Code of Conduct was adapted from the [PyCon Code of Conduct](https://github.com/python/pycon-code-of-conduct/tree/master), which is under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/). 
+
 The PyCon Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), which is under a Creative Commons Zero license.
 
 Additional language was added by [Otter Tech](https://otter.technology/) from:

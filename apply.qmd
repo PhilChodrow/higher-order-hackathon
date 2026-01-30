@@ -12,6 +12,7 @@ title: Join the Hackathon!
 
 ### Code of Conduct
 
+A Higher-Order Hackathon is dedicated to a harassment-free, welcoming conference experience for everyone. Our code of conduct can be found [here.](https://www.philchodrow.prof/higher-order-hackathon/coc.html) 
 
 ### How to Apply
 

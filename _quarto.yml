@@ -10,6 +10,7 @@ website:
       - program.qmd
       - apply.qmd
       - organizers.qmd
+      - coc.qmd
 
 format:
   html:
