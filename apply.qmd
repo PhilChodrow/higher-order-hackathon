@@ -1,5 +1,19 @@
 ---
-title: Apply
+title: Join the Hackathon!
 ---
 
+
+### You're perfect for this hackathon if...
+
+- You like higher-order network analysis or want to learn more about it. 
+- You have some experience with programming, especially in a language like Python, R, Julia, or Matlab. 
+    - We anticipate that most groups working in this event will work in Python. Python will be the only language that the workshop organizers can guarantee support and troubleshooting for. 
+- You want to meet cool new people and collaborate with them in a casual, collaborative environment. 
+
+### Code of Conduct
+
+
+### How to Apply
+
+To apply to join the hackathon, please fill out the interest form **here**. The application deadline is **sometime**
 
