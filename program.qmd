@@ -57,4 +57,20 @@ toc: false
 
 :::
 
-### Schedule
+### Tentative Schedule
+
+
+
+| Time            | Activity                                    |
+|-----------------|---------------------------------------------|
+| 09:00 – 09:10   | Lightning Talk 1: Alec Kirkley              |
+| 09:10 – 09:20   | Lightning Talk 2: Allison Wan               |
+| 09:20 – 09:30   | Lightning Talk 3: Tim LaRock                |
+| 09:30 – 09:40   | Lightning Talk 4: Yanna Kraakman            |
+| 09:40 – 10:00   | XGI Tutorial: Nicholas Landry               |
+| 10:00 – 10:15   | *Coffee Break*                              |
+| 10:15 – 12:30   | **Working Session 1**                       |
+| 12:30 – 14:00   | **Lunch Break**                             |
+| 14:00 – 16:00   | **Working Session 2**                       |
+| 16:00 – 16:15   | *Coffee Break*                              |
+| 16:15 – 17:00   | Wrap-Up: Progress made                      |
