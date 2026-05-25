@@ -5,7 +5,6 @@ bibliography: refs.bib
 toc: false
 ---
 
-
 #### Start off NetSci 2026 with higher-order networks, data science, and new friends 
 
 Hello and welcome! On **Sunday 5/31**, we the organizers in collaboration with NetSci 2026 will host a **hackathon on higher-order networks**. The purpose of this hackathon is to offer an energetic opener to the conference experience, develop skills in higher-order network analysis, and build connections between early-career researchers interested in this rich area of network science. 
@@ -17,6 +16,23 @@ Hello and welcome! On **Sunday 5/31**, we the organizers in collaboration with N
 An example hypergraph, a data structure used to represent higher-order networks, [from the XGI package](https://xgi.readthedocs.io/en/stable/api/tutorials/getting_started_2.html) for higher-order network analysis Python [@Landry_XGI_2023].
 
 :::
+
+### Details
+
+The address: [1135 Tremont St, Boston, MA 02120](https://maps.app.goo.gl/LtiWjzXrJMuCUJ8A7) (Renaissance Park)
+The room: Room 909
+The time: 9:00 AM - 5:00 PM
+
+Some lunch options to save you time!
+
+* Sufra Mediterranean Food, [52 Queensberry St, Boston, MA 02215](https://maps.app.goo.gl/dP6GjaipvfWxdcgo6) (19min walk)
+* Joe's Famous Subs & Pizza, [140 Dudley St, Roxbury, MA 02119](https://maps.app.goo.gl/3BbwSfX83T9Jtdor7) (16min walk)
+* Boston Shawarma, [315 Huntington Ave, Boston, MA 02115](https://maps.app.goo.gl/KFfxWUaEzrSpxMCm8) (12min walk)
+* Mamacita Mexican Comida, [329 Huntington Ave, Boston, MA 02115](https://maps.app.goo.gl/WJgr2kvqRn3DVhm7A) (11min walk)
+* Milkweed, [1508 Tremont St, Boston, MA 02120](https://maps.app.goo.gl/UuNJTGoKT3agiUtf6) (16min walk)
+* Omi Korean Grill, [267 Huntington Ave, Boston, MA 02115](https://maps.app.goo.gl/4RJA7CkFPaSVNd1H8) (15min walk)
+* Silver Slipper Restaurant, [2387 Washington St, Roxbury, MA 02119](https://maps.app.goo.gl/RuEYiAryP3a7cdoK6) (14min walk)
+* Fasika Cafe, [51 Roxbury St, Boston, MA 02119](https://maps.app.goo.gl/wV9sQE2jZomUszRq8) (14min walk)
 
 ### The Mission
 
