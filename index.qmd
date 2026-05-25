@@ -29,8 +29,6 @@ The hackathon will center around the recently-released *A Blue Start* dataset, w
 
 **The mission of the hackathon is to explore this rich data set using higher-order network analysis techniques to learn about the distinctive features of multiway user interactions on social media.**
 
-
-
 ### The Event
 
 ::: {#fig-xgi style="float: right; margin: 5px; width: 400px;"}

@@ -9,17 +9,6 @@ toc: false
 * The room: Room 909
 * The time: 9:00 AM - 5:00 PM
 
-Some lunch options to save you time!
-
-* Sufra Mediterranean Food, [52 Queensberry St, Boston, MA 02215](https://maps.app.goo.gl/dP6GjaipvfWxdcgo6) (19min walk)
-* Joe's Famous Subs & Pizza, [140 Dudley St, Roxbury, MA 02119](https://maps.app.goo.gl/3BbwSfX83T9Jtdor7) (16min walk)
-* Boston Shawarma, [315 Huntington Ave, Boston, MA 02115](https://maps.app.goo.gl/KFfxWUaEzrSpxMCm8) (12min walk)
-* Mamacita Mexican Comida, [329 Huntington Ave, Boston, MA 02115](https://maps.app.goo.gl/WJgr2kvqRn3DVhm7A) (11min walk)
-* Milkweed, [1508 Tremont St, Boston, MA 02120](https://maps.app.goo.gl/UuNJTGoKT3agiUtf6) (16min walk)
-* Omi Korean Grill, [267 Huntington Ave, Boston, MA 02115](https://maps.app.goo.gl/4RJA7CkFPaSVNd1H8) (15min walk)
-* Silver Slipper Restaurant, [2387 Washington St, Roxbury, MA 02119](https://maps.app.goo.gl/RuEYiAryP3a7cdoK6) (14min walk)
-* Fasika Cafe, [51 Roxbury St, Boston, MA 02119](https://maps.app.goo.gl/wV9sQE2jZomUszRq8) (14min walk)
-
 ### Confirmed Speakers
 
 ::: {layout-ncol=2 layout-nrow=2}
@@ -92,3 +81,15 @@ Some lunch options to save you time!
 | 14:00 – 16:00   | **Working Session 2**                       |
 | 16:00 – 16:15   | *Coffee Break*                              |
 | 16:15 – 17:00   | Wrap-Up: Progress made                      |
+
+
+Some lunch options to save you time searching!
+
+* Sufra Mediterranean Food, [52 Queensberry St, Boston, MA 02215](https://maps.app.goo.gl/dP6GjaipvfWxdcgo6) (19min walk)
+* Joe's Famous Subs & Pizza, [140 Dudley St, Roxbury, MA 02119](https://maps.app.goo.gl/3BbwSfX83T9Jtdor7) (16min walk)
+* Boston Shawarma, [315 Huntington Ave, Boston, MA 02115](https://maps.app.goo.gl/KFfxWUaEzrSpxMCm8) (12min walk)
+* Mamacita Mexican Comida, [329 Huntington Ave, Boston, MA 02115](https://maps.app.goo.gl/WJgr2kvqRn3DVhm7A) (11min walk)
+* Milkweed, [1508 Tremont St, Boston, MA 02120](https://maps.app.goo.gl/UuNJTGoKT3agiUtf6) (16min walk)
+* Omi Korean Grill, [267 Huntington Ave, Boston, MA 02115](https://maps.app.goo.gl/4RJA7CkFPaSVNd1H8) (15min walk)
+* Silver Slipper Restaurant, [2387 Washington St, Roxbury, MA 02119](https://maps.app.goo.gl/RuEYiAryP3a7cdoK6) (14min walk)
+* Fasika Cafe, [51 Roxbury St, Boston, MA 02119](https://maps.app.goo.gl/wV9sQE2jZomUszRq8) (14min walk)
