@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.27">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>A Higher Order Hackathon – A Blue Start at Netsci 2026</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -24,7 +27,6 @@ ul.task-list li input[type="checkbox"] {
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
-  margin-bottom: 0em;
 }
 .hanging-indent div.csl-entry {
   margin-left:2em;
@@ -52,15 +54,14 @@ div.csl-indent {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4bc2b4e356910e472f7d50d601e09124.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-c153233bab3d9788f38adc09d98d4c28.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -178,6 +179,21 @@ Figure&nbsp;1: An example hypergraph, a data structure used to represent higher-
 </figure>
 </div>
 </section>
+<section id="details" class="level3">
+<h3 class="anchored" data-anchor-id="details">Details</h3>
+<p>The address: <a href="https://maps.app.goo.gl/LtiWjzXrJMuCUJ8A7">1135 Tremont St, Boston, MA 02120</a> (Renaissance Park) The room: Room 909 The time: 9:00 AM - 5:00 PM</p>
+<p>Some lunch options to save you time!</p>
+<ul>
+<li>Sufra Mediterranean Food, <a href="https://maps.app.goo.gl/dP6GjaipvfWxdcgo6">52 Queensberry St, Boston, MA 02215</a> (19min walk)</li>
+<li>Joe’s Famous Subs &amp; Pizza, <a href="https://maps.app.goo.gl/3BbwSfX83T9Jtdor7">140 Dudley St, Roxbury, MA 02119</a> (16min walk)</li>
+<li>Boston Shawarma, <a href="https://maps.app.goo.gl/KFfxWUaEzrSpxMCm8">315 Huntington Ave, Boston, MA 02115</a> (12min walk)</li>
+<li>Mamacita Mexican Comida, <a href="https://maps.app.goo.gl/WJgr2kvqRn3DVhm7A">329 Huntington Ave, Boston, MA 02115</a> (11min walk)</li>
+<li>Milkweed, <a href="https://maps.app.goo.gl/UuNJTGoKT3agiUtf6">1508 Tremont St, Boston, MA 02120</a> (16min walk)</li>
+<li>Omi Korean Grill, <a href="https://maps.app.goo.gl/4RJA7CkFPaSVNd1H8">267 Huntington Ave, Boston, MA 02115</a> (15min walk)</li>
+<li>Silver Slipper Restaurant, <a href="https://maps.app.goo.gl/RuEYiAryP3a7cdoK6">2387 Washington St, Roxbury, MA 02119</a> (14min walk)</li>
+<li>Fasika Cafe, <a href="https://maps.app.goo.gl/wV9sQE2jZomUszRq8">51 Roxbury St, Boston, MA 02119</a> (14min walk)</li>
+</ul>
+</section>
 <section id="the-mission" class="level3">
 <h3 class="anchored" data-anchor-id="the-mission">The Mission</h3>
 <p>The hackathon will center around the recently-released <em>A Blue Start</em> dataset, which contains higher-order network data from the Bluesky social media platform <span class="citation" data-cites="smith_blue_2025">(<a href="#ref-smith_blue_2025" role="doc-biblioref">Smith et al. 2025</a>)</span>. In this data set, nodes are users and edges are <em>starter packs</em>—lists of accounts curated by individual users that can be followed en masse. Starter packs are an example of a higher-order network structure, as they connect between 8 and 150 users simultaneously. The data set contains over 2 million unique users and over 350,000 starter packs. The multiway nature of the data set allows us to ask richer questions than can be asked of pairwise networks; for example, there is a rich structure of overlap between different starter packs that cannot be captured by pairwise network analysis.</p>
@@ -211,21 +227,21 @@ Figure&nbsp;2: A screencap from the organizers’ meeting.
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
 <div id="ref-blueskypbc_introducing_2024" class="csl-entry" role="listitem">
-Bluesky PBC. 2024. <span>“Introducing <span>Bluesky Starter Packs</span>.”</span> <em>Bluesky</em>. <a href="https://bsky.social/about/blog/06-26-2024-starter-packs">https://bsky.social/about/blog/06-26-2024-starter-packs</a>.
+Bluesky PBC. 2024. <span>“Introducing <span>Bluesky Starter Packs</span>.”</span> In <em>Bluesky</em>. <a href="https://bsky.social/about/blog/06-26-2024-starter-packs">https://bsky.social/about/blog/06-26-2024-starter-packs</a>.
 </div>
 <div id="ref-blueskypbc_repository_2025" class="csl-entry" role="listitem">
-———. 2025. <span>“Repository.”</span> <em>AT Protocol</em>. <a href="https://atproto.com/specs/repository">https://atproto.com/specs/repository</a>.
+Bluesky PBC. 2025. <span>“Repository.”</span> In <em>AT Protocol</em>. <a href="https://atproto.com/specs/repository">https://atproto.com/specs/repository</a>.
 </div>
 <div id="ref-Landry_XGI_2023" class="csl-entry" role="listitem">
-Landry, Nicholas W., Maxime Lucas, Iacopo Iacopini, Giovanni Petri, Alice Schwarze, Alice Patania, and Leo Torres. 2023. <span>“<span class="nocase">XGI: A Python package for higher-order interaction networks</span>.”</span> <em>Journal of Open Source Software</em> 8 (85): 5162. <a href="https://doi.org/10.21105/joss.05162">https://doi.org/10.21105/joss.05162</a>.
+Landry, Nicholas W., Maxime Lucas, Iacopo Iacopini, et al. 2023. <span>“<span class="nocase">XGI: A Python package for higher-order interaction networks</span>.”</span> <em>Journal of Open Source Software</em> 8 (85): 5162. <a href="https://doi.org/10.21105/joss.05162">https://doi.org/10.21105/joss.05162</a>.
 </div>
 <div id="ref-mccue_how_" class="csl-entry" role="listitem">
-McCue, Mike. 2024. <span>“How the <span>Open Social Web Will Change Everything</span>, with <span>Bluesky</span>’s <span>Jay Graber</span>.”</span> <a href="https://dot-social.simplecast.com/episodes/jay-graber">https://dot-social.simplecast.com/episodes/jay-graber</a>.
+McCue, Mike. 2024. <em>How the <span>Open Social Web Will Change Everything</span>, with <span>Bluesky</span>’s <span>Jay Graber</span></em>. No. 14. <a href="https://dot-social.simplecast.com/episodes/jay-graber">https://dot-social.simplecast.com/episodes/jay-graber</a>.
 </div>
 <div id="ref-smith_blue_2025" class="csl-entry" role="listitem">
-Smith, Alyssa, Nicholas Landry, Sagar Kumar, Brooke Foucault Welles, and Ilya Amburg. 2025. <span>“A <span>Blue Start</span>: <span>A</span> Large-Scale Pairwise and Higher-Order Social Network Dataset.”</span> https://doi.org/10.3886/ICPSR300499: <span>Inter-university Consortium for Political and Social Research</span>. <a href="https://doi.org/10.3886/ICPSR300499">https://doi.org/10.3886/ICPSR300499</a>.
+Smith, Alyssa, Nicholas Landry, Sagar Kumar, Brooke Foucault Welles, and Ilya Amburg. 2025. <em>A <span>Blue Start</span>: <span>A</span> Large-Scale Pairwise and Higher-Order Social Network Dataset</em>. <span>Inter-university Consortium for Political and Social Research</span>. <a href="https://doi.org/10.3886/ICPSR300499">https://doi.org/10.3886/ICPSR300499</a>.
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
